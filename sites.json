@@ -1,0 +1,12 @@
+[
+    {"name": "Baba Haber (Ana)", "property_id": "295198995", "grup": "kontrol"},
+    {"name": "Baba Haber (Yedek)", "property_id": "396119099", "grup": "kontrol"},
+    {"name": "gaziantepdogus.com", "property_id": "306166224", "grup": "test"},
+    {"name": "referansgazetesi.com.tr", "property_id": "380889362", "grup": "test"},
+    {"name": "gazeteekspres.com", "property_id": "283521362", "grup": "kontrol"},
+    {"name": "metropolgazetesi.com.tr", "property_id": "484538889", "grup": "kontrol"},
+    {"name": "gaziantepolusum.com", "property_id": "378966540", "grup": "test"},
+    {"name": "ortadogubusiness.com", "property_id": "472400259", "grup": "kontrol"},
+    {"name": "kutahyaekspres.com", "property_id": "370561613", "grup": "kontrol"}
+]
+
